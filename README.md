@@ -11,8 +11,7 @@ The goal is to send a file to another computer in the same network, as fast as p
 
 > Make sure you have $GOPATH defined
 
-  You can also use the pre-build package
-
+    You can also use the prebuilt packages in `prebuilt/`
 
 ### How to use
 
