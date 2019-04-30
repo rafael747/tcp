@@ -7,6 +7,7 @@ The goal is to send a file to another computer in the same network, as fast as p
 ### How to install
 
   go get github.com/rafael747/tcp
+
   go install github.com/rafael747/tcp
 
 > Make sure you have $GOPATH defined
