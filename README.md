@@ -18,11 +18,11 @@ The goal is to send a file to another computer in the same network, as fast as p
 
  - to receive a file in the working directory
 
-  tcp
+       tcp
 
  - to send a file
 
-  tcp file host
+       tcp file host
 
 
 > the host can be a IP address or a name, check your DNS configuration
